@@ -1,0 +1,11 @@
+# Core
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+joblib>=1.3
+
+# Notebooks / EDA (optional but recommended)
+matplotlib>=3.7
+seaborn>=0.13
+jupyter>=1.0
