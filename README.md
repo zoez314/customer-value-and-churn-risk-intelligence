@@ -3,7 +3,9 @@
 A consultant-style **end-to-end churn analytics demo**: explore churn drivers, train an interpretable baseline model, package the model as a reusable pipeline, and deploy a **Streamlit** app that scores customers and recommends retention actions.
 
 > Dataset: Telco Customer Churn (CSV) in `data/telco_customer_churn.csv` (public demo dataset).
-
+---
+## Demo Screenshot
+![Streamlit App](assets/streamlit_demo.png)
 ---
 
 ## What this project delivers
@@ -109,5 +111,4 @@ If you retrain the model in Notebook 3, **re-export** the pipeline to the same p
 This is a **demo project** for portfolio purposes. It is not production-grade scoring and does not use real customer data.
 
 ---
-## Demo Screenshot
-![Streamlit App](assets/streamlit_demo.png)
+
