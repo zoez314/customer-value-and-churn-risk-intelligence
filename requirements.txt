@@ -1,13 +1,7 @@
 streamlit==1.52.2
-
-# Core data stack (cloud-stable)
-numpy==1.26.4
 pandas==2.2.2
-
-# ML
-scikit-learn==1.3.2
+numpy==1.26.4
+scikit-learn==1.4.2
 joblib==1.4.2
-
-# Visualization / notebooks (safe)
 matplotlib>=3.7
 seaborn>=0.13
